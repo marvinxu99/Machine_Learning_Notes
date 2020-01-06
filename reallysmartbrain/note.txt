@@ -1,0 +1,10 @@
+https://github.com/OlafenwaMoses/ImageAI
+
+use anaconda prompt - as of now, tensorflow does not support Python 3.8
+
+Steps:
+(1) go to Anaconda Prompte(Aanaconda3)
+(2) pip install -U tensorflow keras opencv-python
+(3) pip install imageai
+
+
